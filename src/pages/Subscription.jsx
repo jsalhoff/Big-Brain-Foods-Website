@@ -1,0 +1,1 @@
+export default function Subscription() { return <h2>Choose Your Plan</h2>; }

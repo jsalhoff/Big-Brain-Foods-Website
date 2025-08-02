@@ -1,0 +1,1 @@
+export default function Macros() { return <h2>Macros Calculator Coming Soon</h2>; }

@@ -1,0 +1,1 @@
+export default { base: '/Big-Brain-Foods-Website/' };

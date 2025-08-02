@@ -1,0 +1,1 @@
+export default function Loyalty() { return <h2>Loyalty & Rewards Program</h2>; }
